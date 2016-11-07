@@ -9,8 +9,8 @@
         <property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
     </system-properties>
     <env-variables>
-        <env-var name="POLICY_SCANNER_ORG_NAME" value="YOUR_ORG_NAME" />
-        <env-var name="POLICY_SCANNER_ORG_ID" value="YOUR_ORG_NUMBER" />
+        <env-var name="POLICY_SCANNER_ORG_NAME" value="Broad Institute of MIT and Harvard" />
+        <env-var name="POLICY_SCANNER_ORG_ID" value="548622027621" />
         <env-var name="POLICY_SCANNER_INPUT_REPOSITORY_URL" value="${app.id}.appspot.com" />
         <env-var name="POLICY_SCANNER_SINK_URL" value="gs://${app.id}.appspot.com/OUTPUT" />
         <env-var name="POLICY_SCANNER_DATAFLOW_TMP_BUCKET" value="${app.id}.appspot.com" />
