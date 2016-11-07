@@ -15,7 +15,7 @@
   <artifactId>gcp_scanner</artifactId>
 
   <properties>
-    <app.id>YOUR_PROJECT_ID</app.id>
+    <app.id>broad-policyscanner</app.id>
     <app.version>1</app.version>
     <appengine.version>1.9.38</appengine.version>
     <gcloud.plugin.version>2.0.9.111.v20160525</gcloud.plugin.version>
